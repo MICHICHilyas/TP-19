@@ -127,7 +127,21 @@ DELETE /service-voiture/voitures/{id}
 - ✅ **Communication inter-services** avec OpenFeign
 - ✅ **API RESTful** pour chaque microservice
 
-## 👨‍💻 Auteur
+## � Captures d'écran
+
+### Eureka Dashboard
+![Eureka Dashboard](image.png)
+
+### Services enregistrés
+![Services](image-1.png)
+
+### Test API via Gateway
+![Gateway Test](image-2.png)
+
+### Communication OpenFeign
+![OpenFeign](image-3.png)
+
+## �👨‍💻 Auteur
 
 **Ilyas MICHICH**
 
